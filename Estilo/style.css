@@ -20,7 +20,7 @@ body{
     left: 50%;
     transform: translate(-50%,-50%);
 
-    width: 311px;
+    width: 309px;
     height: 627px;
     
     background-image: url(../imagens/frame-iphone.png);
@@ -30,10 +30,10 @@ body{
 #tela{
     position: absolute;
     top: 80px;
-    left: 22px;
-    width: 268px;
+    left: 21px;
+    width: 269px;
     height: 472px;
-
+    
 }
 
 #botoes{
