@@ -29,11 +29,10 @@ body{
 
 #tela{
     position: absolute;
-    top: 80px;
+    top: 79px;
     left: 21px;
     width: 269px;
     height: 472px;
-    
 }
 
 #botoes{
